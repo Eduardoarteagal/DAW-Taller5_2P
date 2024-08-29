@@ -1,0 +1,19 @@
+.sidebar {
+    background-color: #f0f0f0;
+    padding: 1rem;
+    border-right: 1px solid #ddd;
+  }
+  
+  .sidebar .nav-link {
+    color: #337ab7;
+  }
+  
+  .sidebar .nav-link:hover {
+    color: #23527c;
+    background-color: #f5f5f5;
+  }
+  
+  .sidebar .nav-link.active {
+    background-color: #337ab7;
+    color: #fff;
+  }
